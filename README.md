@@ -34,7 +34,7 @@ Examples:
 ![alt text](https://github.com/oxno2/star-chart-CN/blob/master/Aqr.png)
 ![alt text](https://github.com/oxno2/star-chart-CN/blob/master/example_coma.png)
 
-附录：十二黄道星座表缩写
+附录：十二黄道星座缩写
 
 1. 宝瓶    Aqu
 2. 双鱼    Psc 
