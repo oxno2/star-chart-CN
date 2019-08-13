@@ -2,7 +2,7 @@
 
 This a simple jupyter file to plot star consterllation in Chinese.
 
-这是一个简单的画出中文星座的jupyter文档！
+这是一个可以画出星座（中文标识）的jupyter文档！
 
 Detailed info can be find in star-chart-CN.ipynb, you just need to manually input the 
 abbreviation of a consterllation(eg. 'Ori') by youself!
