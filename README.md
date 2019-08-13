@@ -30,4 +30,5 @@ Requirement:
 Example:
 ![alt text](https://github.com/oxno2/star-chart-CN/blob/master/Ori.png)
 ![alt text](https://github.com/oxno2/star-chart-CN/blob/master/UMa.png)
+![alt text](https://github.com/oxno2/star-chart-CN/blob/master/Aqr.png)
 ![alt text](https://github.com/oxno2/star-chart-CN/blob/master/example_coma.png)
