@@ -18,7 +18,7 @@ The tiny magenta circles are NGC/IC objects (You can edit the code to show their
 
 洋红色的小圆圈是NGC/IC天体（你可以编辑代码来展示它们的名字！）
 
-Requirement: 
+Dependencies:
 * python 3
 * Jupyter 
 * pandas
