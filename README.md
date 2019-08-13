@@ -33,3 +33,18 @@ Example:
 ![alt text](https://github.com/oxno2/star-chart-CN/blob/master/UMa.png)
 ![alt text](https://github.com/oxno2/star-chart-CN/blob/master/Aqr.png)
 ![alt text](https://github.com/oxno2/star-chart-CN/blob/master/example_coma.png)
+
+附录：十二黄道星座表 缩写：
+
+宝瓶    Aqu
+双鱼    Psc 
+白羊    Ari
+金牛    Tau
+双子    Gem
+巨蟹    Cnc
+狮子    Leo
+室女    Vir
+天秤    Lib
+天蝎    Sco
+人马    Sgr
+摩羯    Cap
