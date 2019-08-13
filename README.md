@@ -5,13 +5,14 @@ This a simple jupyter file to plot star consterllation in Chinese.
 这是一个简单的画出中文星座的jupyter文档！
 
 Detailed info can be find in star-chart-CN.ipynb, you just need to manually input the 
-abbreviation of a consterllation by youself!
+abbreviation of a consterllation(eg. 'Ori') by youself!
 
-详细内容在star-chart-CN.ipynb中，你只需要输入星座的缩写就可以画出想绘制的星座。
+详细内容在star-chart-CN.ipynb中，你只需要输入星座的缩写(比如:'Ori')就可以画出想绘制的星座。
+
 
 The cyan circles represent famous deep sky objects！(eg. Messier Objects)
 
-青色的圆圈是著名的深空天体。（比如，梅西耶天体）
+青色的圆圈是著名的深空天体。（比如:梅西耶天体）
 
 The tiny magenta circles are NGC/IC objects (You can edit the code to show their names!)
 
