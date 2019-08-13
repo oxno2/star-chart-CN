@@ -1,4 +1,4 @@
-# star-chart-CN 绘制中文星座
+# star-chart-CN 绘制星座（中文标识）
 
 This a simple jupyter file to plot star consterllation in Chinese.
 
